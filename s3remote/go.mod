@@ -25,5 +25,3 @@ require (
 	golang.org/x/image v0.38.0 // indirect
 	golang.org/x/tools v0.8.0 // indirect
 )
-
-replace go.bits2life.com/blobstore => ../
