@@ -169,3 +169,7 @@ The default export talks to the prefix the script was loaded from. Use
 
 The layout matches the blobstore in bits2life/archetype, so an existing data
 directory can be used as is.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
